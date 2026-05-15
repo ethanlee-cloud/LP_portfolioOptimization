@@ -83,13 +83,15 @@ The model solves the following Linear Program:
 
 ## 🗂️ Project Structure
 
+```
 LP_portfolioOptimization/
-├── python/               # Data fetching, cleaning, LP solver
-├── R/                    # Original R implementation (lpSolve)
-├── sql/                  # SQLite database setup and queries
-├── streamlit_app/        # Interactive dashboard
-├── data/                 # Raw and processed CSVs
+├── python/          # Data fetching, cleaning, LP solver
+├── R/               # Original R implementation (lpSolve)
+├── sql/             # SQLite database setup and queries
+├── streamlit_app/   # Interactive dashboard
+├── data/            # Raw and processed CSVs
 └── README.md
+```
 
 
 ---
